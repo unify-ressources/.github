@@ -1,6 +1,20 @@
 # Unify-Ressources
 
-Unify-Ressources is an open source organization dedicated to creating high-quality components for UnoCSS and TailwindCSS. We support ReactJS, VueJS, AlpineJs and our components are designed to be lightweight, flexible, and easy to use.
+Unify-Ressources is a set of Modern Blocks/components for UnoCSS and TailwindCSS. Our Blocks/Components are designed to be lightweight, flexible, and easy to use.
+
+## What Come Next
+
+### For UnoCSS
+
+- VueJs/NuxtJs support
+- AstroJs support
+
+
+### For TailwindCSS
+
+1. ReactJS/NextJS Support
+2. VueJS/NuxtJs Support
+3. AlpineJs support
 
 
 ## Features
@@ -15,10 +29,9 @@ Unify-Ressources is an open source organization dedicated to creating high-quali
 If you're interrested in contributing to this project, read this first :
 
 ### For UnoCss
-Read our [contributing docs](CONTRIBUTING.md) before submitting a pull request.
+Read our [contributing docs](https://github.com/unify-ressources/unify-unocss/blob/main/CONTRIBUTING.md) before submitting a pull request.
 
 ### For TailwindCss
-Read our [contributing docs](CONTRIBUTING.md) before submitting a pull request.
+Read our [contributing docs](https://github.com/unify-ressources/unify-tailwindcss/blob/main/CONTRIBUTING.md) before submitting a pull request.
 
 Follow us so you don't miss anything 
-
