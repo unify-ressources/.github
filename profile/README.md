@@ -4,6 +4,7 @@ Unify-Ressources is a set of Modern Blocks/components for UnoCSS and TailwindCSS
 
 ## What Come Next
 
+
 ### For UnoCSS
 
 - VueJs/NuxtJs support
@@ -17,8 +18,9 @@ Unify-Ressources is a set of Modern Blocks/components for UnoCSS and TailwindCSS
 3. AlpineJs support
 
 
-## Features
+## Your new Friend
 - Easy to use
+- Dark mode Support
 - Easy to costumize
 - Extensible components
 - Save time by not having to write your own CSS
@@ -35,3 +37,5 @@ Read our [contributing docs](https://github.com/unify-ressources/unify-unocss/bl
 Read our [contributing docs](https://github.com/unify-ressources/unify-tailwindcss/blob/main/CONTRIBUTING.md) before submitting a pull request.
 
 Follow us so you don't miss anything 
+
+![Unify UI Cover](./../cover.png)
