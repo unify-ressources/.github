@@ -38,4 +38,4 @@ Read our [contributing docs](https://github.com/unify-ressources/unify-tailwindc
 
 Follow us so you don't miss anything 
 
-![Unify UI Cover](../cover.png)
+![Unify UI Cover](https://raw.githubusercontent.com/unify-ressources/.github/main/cover.png)
