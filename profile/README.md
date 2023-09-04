@@ -1,6 +1,7 @@
 # Unify-UI (work in progress)
 
-Unify-UI is a set of Modern Blocks/components for UnoCSS and TailwindCSS. Our Blocks/Components are designed to be lightweight, flexible, and easy to use.
+Unify-UI is a set of Modern Blocks/components for UnoCSS and TailwindCSS. Designed to be lightweight, flexible, and easy to use.
+Unify-UI's goal is to provide developers with the tools they need to create beautiful and engaging user interfaces with ease.
 
 
 ## Unify-UI (under development)
