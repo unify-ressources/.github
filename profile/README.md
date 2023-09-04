@@ -8,7 +8,7 @@ Unify-UI's goal is to provide developers with the tools they need to create beau
 
 - VueJs/NuxtJs support (soon) 
 - AstroJs support (soon)
-- Next JS (soon)
+- ReactJs (soon)
 
 
 ## Unify-tailwind (under development)
