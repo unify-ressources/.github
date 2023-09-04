@@ -41,4 +41,4 @@ Read our [contributing docs](https://github.com/unify-ressources/unify-ui/blob/m
 Read our [contributing docs](https://github.com/unify-ressources/unify-tailwind/blob/main/CONTRIBUTING.MD) before submitting a pull request.
 
 
-![Unify UI Cover](https://raw.githubusercontent.com/unify-ressources/.github/main/cover.png)
+![Unify UI Cover](https://raw.githubusercontent.com/unify-ressources/.github/main/cover_.png)
