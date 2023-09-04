@@ -1,8 +1,6 @@
-# Unify Ressources (Unify UI)
+# Unify UI
 
-## Unify-Tailwind
-Beautiful and modern responsive UI Blocks & Components built with Tailwindcss
+Unify-UI is a set of Modern Blocks/components for UnoCSS and TailwindCSS
 
 
-## Unify-UnoCSS
-Beautiful and modern responsive UI Blocks & Components built with UnoCSS
+

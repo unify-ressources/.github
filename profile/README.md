@@ -1,41 +1,44 @@
-# Unify-Ressources
+# Unify-UI (work in progress)
 
-Unify-Ressources is a set of Modern Blocks/components for UnoCSS and TailwindCSS. Our Blocks/Components are designed to be lightweight, flexible, and easy to use.
-
-## What Come Next
+Unify-UI is a set of Modern Blocks/components for UnoCSS and TailwindCSS. Our Blocks/Components are designed to be lightweight, flexible, and easy to use.
 
 
-### For UnoCSS
+## Unify-UI (under development)
 
-- VueJs/NuxtJs support
-- AstroJs support
-
-
-### For TailwindCSS
-
-1. ReactJS/NextJS Support
-2. VueJS/NuxtJs Support
-3. AlpineJs support
+- VueJs/NuxtJs support (soon) 
+- AstroJs support (soon)
+- Next JS (soon)
 
 
-## Your new Friend
+## Unify-tailwind (under development)
+
+1. ReactJS/NextJS Support (soon)
+2. VueJS/NuxtJs Support (soon)
+3. AlpineJs support (soon)
+
+
+## Speed-up your work
+
 - Easy to use
 - Dark mode Support
-- Easy to costumize
-- Extensible components
+- Fully Responsive blocks
+- Costumizable blocks
 - Save time by not having to write your own CSS
 - Improve performance by using lightweight and efficient components
+
 
 ## Contributing
 
 If you're interrested in contributing to this project, read this first :
 
-### For UnoCss
-Read our [contributing docs](https://github.com/unify-ressources/unify-unocss/blob/main/CONTRIBUTING.md) before submitting a pull request.
+### Unify-UI
 
-### For TailwindCss
-Read our [contributing docs](https://github.com/unify-ressources/unify-tailwindcss/blob/main/CONTRIBUTING.md) before submitting a pull request.
+Read our [contributing docs](https://github.com/unify-ressources/unify-ui/blob/main/CONTRIBUTING.MD) before submitting a pull request.
 
-Follow us so you don't miss anything 
 
-![Unify UI Cover](https://raw.githubusercontent.com/unify-ressources/.github/main/cover_.png)
+### Unify-tailwind
+
+Read our [contributing docs](https://github.com/unify-ressources/unify-tailwind/blob/main/CONTRIBUTING.MD) before submitting a pull request.
+
+
+![Unify UI Cover](https://raw.githubusercontent.com/unify-ressources/.github/main/cover.png)
